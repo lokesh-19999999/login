@@ -1,0 +1,46 @@
+
+body{
+    min-height: 100px; 
+    background: rgb(23, 225, 114);
+    display: flex;
+    font-family:sans-serif ;
+}
+.container form{
+    margin: auto;
+    display: 400px; 
+    max-width: 80px;
+}
+.container form{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    background:rgb(68, 4, 171) ;
+    border-radius: 5px; 
+    box-shadow:0 8px 16px black ;
+}
+.container form .from control{
+    width: 100px;
+    height: 400px;
+    background: rgb(53, 5, 163) ;
+    border-radius: 5px;
+    border: 1px solid chartreuse;
+    margin: 10px 0 18px;
+    padding:0 10px ;
+}
+.container from.button{
+    margin: left 50px; 
+    transform:translateX(50%) ;
+    width: 120px; 
+    height: 34px;
+    border: none;
+    background: blueviolet;
+    cursor: pointer;
+    font: size 16px;
+    text-transform:uppercase ;
+    color: aquamarine;
+    border-radius: 4px;
+    transition: 3s;
+ }
+ .container .from. btn:hover{
+opacity: .7;
+ } 
